@@ -47,3 +47,6 @@ Implement XGBoost & LightGBM for better performance.
 Hyperparameter tuning with GridSearchCV/RandomizedSearchCV.
 Deploy as a web app (Flask/Streamlit).
 
+Install the required dependencies using:
+pip install -r requirements.txt
+
